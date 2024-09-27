@@ -1,0 +1,17 @@
+---
+title: "HelloWorld"
+author: "ZM"
+date: "2024-09-27"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a markdown file
+
+This is a markdown file for the first assignment.
